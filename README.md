@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Aishwarya Narain
 - I'm skilled in Front-end Web-developmemt 👩‍💻 and have good knowledge of Java ☕.
 - Currently I'm working on a Machine learning and Neural Network project ,
-- also working on upskilling myself on Data Analytics.
+- I'm also an aspiring Data Analyst , currently upskilling myself with Google.
 - I'm currently an UnderGraduate Student pursuing B.Tech in Computer Science and Engineering.
 - 👀 I’m interested in creating UI/UX designs, Programming and Reading Books.
 - 🌱 I’m currently learning : Web-development, Game Development and Creating Machine Learning model
-- 💞️ I’m looking to collaborate on ...
+- 🐱‍🚀🤝I'm open for collaboration on Frontend development , Game Development and Data Analytics projects.
 - 📫 How to reach me : aishwaryanarain01@gmail.com
 
 <!---
