@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aishwarya Narain
 - I'm skilled in Front-end Web-developmemt 👩‍💻 and have good knowledge of Java ☕.
-- Currently I'm working on a Machine learning and Neural Network project ,
+- Currently I'm working on a Machine learning - Neural Network project ,
 - I'm also an aspiring Data Analyst , upskilling myself with Google.
 - I'm currently an UnderGraduate Student pursuing B.Tech in Computer Science and Engineering.
 - 👀 I’m interested in creating UI/UX designs, Programming and Reading Books.
