@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aishwarya Narain
 - I'm skilled in Front-end Web-developmemt 👩‍💻 and have good knowledge of Java ☕.
-- Currently I'm working on a Machine learning - Neural Network project ,
-- Entry Level Data Analytics Professional. Google Certified Data Analytics Professional.
+- Currently I'm working on a Machine learning - Neural Network project.
+- Entry Level Data Analytics Professional. Google Certified Data Analytics Professional. (https://www.credly.com/badges/b3834250-8b31-4ce1-9310-e96122d0c2a9/public_url)
 - I'm currently an UnderGraduate Student pursuing B.Tech in Computer Science and Engineering.
 - 👀 I’m interested in creating UI/UX designs, Programming and Reading Books.
 - 🌱 I’m currently learning : Web-development, Game Development and Creating Machine Learning model
