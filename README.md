@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aishwarya Narain
+- 👋 Hi, My name is Aishwarya Narain.
 - I'm skilled in Front-end Web-developmemt 👩‍💻 and have good knowledge of Java ☕.
 - Currently I'm working on a Machine learning - Neural Network project.
 - AWS DeepStudent Racer.🏎
