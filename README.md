@@ -6,7 +6,7 @@
 - I'm currently an UnderGraduate Student pursuing B.Tech in Computer Science and Engineering.
 - 👀 I’m interested in creating UI/UX designs 🖥📲🖊, Programming 👩‍💻 and Reading Books📚 .
 - 🌱 I’m currently learning : Web-development, Game Development and Creating Machine Learning model
-- 🐱‍🚀🤝I'm looking forward to collaborate on Frontend WebDevelopment , Game Development and Data Analytics projects.
+- 🐱‍🚀🤝I'm looking forward to collaborate on Frontend WebDevelopment and Data Analytics projects.
 - 📫 How to reach me : aishwaryanarain01@gmail.com
 - My Porfolio Website: https://narain-aishwarya.github.io/aishwaryanarain_website/
 <!---
