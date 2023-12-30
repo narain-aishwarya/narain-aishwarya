@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Aishwarya Narain.
-- I'm skilled in Front-end Web-developmemt 👩‍💻 and have good knowledge of Java ☕ and Python 🐍.
+- I'm skilled in Front-end Web-developmemt 👩‍💻 and have good knowledge of Java ☕, JavaScript 🍪and Python 🐍.
 - Currently I'm working on a Machine learning - Neural Network project.
 - AWS DeepStudent Racer.🏎
 - Entry Level Data Analytics Professional. Google Certified Data Analytics Professional. (https://www.credly.com/badges/b3834250-8b31-4ce1-9310-e96122d0c2a9/public_url)
