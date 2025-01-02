@@ -5,7 +5,7 @@
 - Google Certified Data Analytics Professional. (https://www.credly.com/badges/b3834250-8b31-4ce1-9310-e96122d0c2a9/public_url)
 - *Graduate* : B.Tech in Computer Science and Engineering.
 - 👀 I’m interested in Programming 👩‍💻 , Analytics📄,Machine Learning 🤖 and Reading Books📚 .
-- 🌱 I’m currently learning : Web-development, Machine Learning and AI.
+- 🌱 I’m currently learning : Project Management, Machine Learning and AI.
 - 🐱‍🚀🤝I'm looking forward to collaborate on Frontend WebDevelopment and ML projects.
 - 📫 How to reach me : aishwaryanarain01@gmail.com
 - My Porfolio Website: https://narain-aishwarya.github.io/aishwaryanarain_website/
